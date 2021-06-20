@@ -1,0 +1,5 @@
+# exclude everything
+img/*
+compressed_img/*
+compressed.zip
+
