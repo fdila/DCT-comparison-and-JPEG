@@ -1,6 +1,6 @@
 # DCT comparison and JPEG
 
-Project for the course "Metodi Del Calcolo Scientifico" at Università degli Studi di Milano-Bicocca.
+Project for the course "Metodi Del Calcolo Scientifico" at Università degli Studi di Milano-Bicocca, made with @dlcgold @derogab
 
 First part is the comparison of scipy dct vs. custom implemented dct
 
