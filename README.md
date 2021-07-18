@@ -1,4 +1,4 @@
-# DCT and JPEG compression
+# DCT comparison and JPEG
 
 Project for the course "Metodi Del Calcolo Scientifico" at Università degli Studi di Milano-Bicocca.
 
